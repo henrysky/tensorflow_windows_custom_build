@@ -8,8 +8,8 @@ AVX2 supported wheels only for Intel CPU after 2014 and AMD Ryzen CPU
 
 Windows x64, Python 3.6 x64, CPU-Only, No AVX/AVX2 supported: [Download](/1.1.0/cpu_noavx/tensorflow-1.1.0-cp36-cp36m-win_amd64.whl)
 
-Windows x64, Python 3.6 x64, CPU-Only, AVX2 supported:
+Windows x64, Python 3.6 x64, CPU-Only, AVX2 supported: [Download](/1.1.0/cpu_avx/tensorflow-1.1.0-cp36-cp36m-win_amd64.whl)
 
-Windows x64, Python 3.6 x64, GPU-supported, No AVX/AVX2 supported:
+Windows x64, Python 3.6 x64, GPU-supported, No AVX/AVX2 supported: [Download](/1.1.0/gpu_noavx/tensorflow_gpu-1.1.0-cp36-cp36m-win_amd64.whl)
 
-Windows x64, Python 3.6 x64, GPU-supported, AVX2 supported:
+Windows x64, Python 3.6 x64, GPU-supported, AVX2 supported: [Download](/1.1.0/gpu_avx/tensorflow_gpu-1.1.0-cp36-cp36m-win_amd64.whl)
