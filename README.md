@@ -1,3 +1,6 @@
+# This page is obsolete
+Please refers to https://github.com/fo40225/tensorflow-windows-wheel for latest Tensorflow Windows build
+
 # tensorflow_windows_custom_build
 Tensorflow Customised Build for Windows
 
